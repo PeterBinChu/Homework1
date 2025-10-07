@@ -1,5 +1,6 @@
 import java.time.LocalDate;
 
+//Damir Amankulov
 public class Main {
     public static void main(String[] args) {
         InfoSellers infoSellers1, infoSellers2, infoSellers3;
